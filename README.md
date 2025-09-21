@@ -18,7 +18,7 @@
 
 > *"Code with impact, build for the future."*
 
-🌍 **Based in Nyeri, Kenya** - Bringing global standards to local solutions  
+🌍 **Based in Nairobi, Kenya** - Bringing global standards to local solutions  
 🔭 **Currently Building**: AI-powered applications, scalable booking systems, and cutting-edge portfolio projects  
 🌱 **Learning Journey**: Mastering Cloud & DevOps (AWS, Docker, Kubernetes) to scale applications globally  
 👯 **Open to Collaborate**: On open-source projects, innovative startups, and tech-for-good initiatives  
